@@ -79,7 +79,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: hsl(330, 100%, 98%);
+  background-color: hsl(30, 54%, 90%);
   font-family: "Outfit";
   color: hsl(30, 10%, 34%);
 }
@@ -91,7 +91,7 @@ body {
   align-items: center;
   width: 53%;
   border-radius: 20px;
-  margin: 50px;
+  margin: 100px;
   background-color: hsl(0, 0%, 100%);
   padding-bottom: 20px;
   padding-top: 20px;
